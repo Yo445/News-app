@@ -16,6 +16,10 @@ Welcome to the **React News App**! This responsive web application is built with
 ### 3. Login Page
 - 🔑 **User Authentication**: Simple and secure login page to access detailed articles.
 
+## Live Demo
+
+show live demo [here](https://news-app-psi-wine.vercel.app/)
+
 ## 🎨 Tailwind CSS for Styling
 - **Responsive Design**: Tailwind CSS ensures that all pages are fully responsive, looking great on both desktop and mobile devices.
 - **Modern UI**: Utilizes Tailwind’s utility-first approach to create a clean, modern user interface with minimal effort.
